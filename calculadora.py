@@ -44,5 +44,5 @@ elif operacao == "/":
 	print("resultado:", resultado)
 	
 
-	
+#teste
 	
