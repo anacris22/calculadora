@@ -42,7 +42,3 @@ elif operacao == "*":
 elif operacao == "/":
 	resultado = divisao(primeironumero,segundonumero)
 	print("resultado:", resultado)
-	
-
-#teste
-	
