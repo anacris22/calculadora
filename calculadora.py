@@ -1,3 +1,7 @@
+# criar a função operação valida
+# mostar se operação e valida 
+
+
 print("calculadora")
 
 def somar(a,b):
