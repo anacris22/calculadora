@@ -44,4 +44,3 @@ elif operacao == "/":
 	print("resultado:", resultado)
 
 
-#asdasdasdas
