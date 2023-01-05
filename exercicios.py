@@ -5,12 +5,8 @@ print("digitado", qualdatanatal)
 
 datanatal = 25
              
-if datanatal == qualdatanatal:
+if datanatal == datanatal:
 	print("você acertou")
 else:
 	print("você errou")
 
-
-	nome = "Nico"
-sobrenome = "Steppat"
-print(nome + sobrenome)
